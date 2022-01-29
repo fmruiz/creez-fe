@@ -1,0 +1,1 @@
+import { BtnEditBoard } from './BtnEditBoard';
