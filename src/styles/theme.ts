@@ -39,4 +39,10 @@ export const theme = {
     text_150px: `150px`,
     text_214px: `214px`,
   },
+  color: {
+    background_app: "#000000",
+    gray_primary: '#979797',
+    white_primary: '#ffffff',
+    white_light: 'rgba(255,255,255,0.1)'
+  },
 };
