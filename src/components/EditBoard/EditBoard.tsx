@@ -1,4 +1,4 @@
-import { BtnEditBoard } from "../../common/Buttons/BtnEditBoard/BtnEditBoard";
+import { BtnEditBoard } from "common/Buttons/BtnEditBoard/BtnEditBoard";
 import {
   EditBoardContainer,
   LeftButtonsContainer,
