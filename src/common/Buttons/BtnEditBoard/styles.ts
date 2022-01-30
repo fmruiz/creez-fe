@@ -7,6 +7,7 @@ export const BtnEdit = styled.button`
   padding: 5px 10px 5px 10px;
   margin-left: 5px;
   margin-right: 5px;
+  cursor: pointer;
 
   svg {
     color: ${(p) => p.theme.color.white_primary};
